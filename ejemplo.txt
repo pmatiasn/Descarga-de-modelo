@@ -27,11 +27,11 @@ def guardar_punto_como_geojson(punto, cota, output_geojson):
 
 # Ruta del archivo de elevación en formato de imagen (.img)
 
-elevation_file = "Ruta"
+elevation_file = ".../2760.img"
 
 # Ruta de salida del archivo GeoJSON
 
-output_geojson = "Ruta"
+output_geojson = ".../2760.geojson"
 
 # Obtener el punto de mayor altura y la cota
 
